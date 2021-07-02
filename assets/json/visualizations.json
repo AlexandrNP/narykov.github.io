@@ -1,0 +1,32 @@
+[
+	{
+		"image": "vis-1.png",
+		"title": "Alternative Splicing Impact",
+		"description": "Impact of the Alternative Splicing"
+	},
+	{
+		"image": "vis-2.png",
+		"title": "ALT-IN Tool",
+		"description": "Alternative splicing-induced rewiring of the protein-protein interaction network"
+	},
+	{
+		"image": "vis-3.png",
+		"title": "ALT-IN Tool",
+		"description": "Impact of alternative splicing on PI3K-Akt, ER stress and WNT pathways"
+	},
+	{
+		"image": "vis-4.png",
+		"title": "DISPOT",
+		"description": "Heatmap of the True Positive (blue) and True Negative statistical potentials for protein interaction in respect to the HuRI interactome data"
+	},
+	{
+		"image": "vis-5.png",
+		"title": "DISPOT",
+		"description": "Distribution of statistical potentials for proteins based on different domain combination strategies"
+	},
+	{
+		"image": "vis-6.png",
+		"title": "DISPOT",
+		"description": "Distribution of protein potentials based on the number of domains"
+	}
+]

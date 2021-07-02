@@ -1,0 +1,31 @@
+{
+	"name": "Oleksandr Narykov",
+	"school": "Worcester Polytechnic Institute",
+	"copyrightStartYear": "2015",
+	"repo": "onarykov/research-website",
+	"social": {
+		"googleScholar": "3pMgtQgAAAAJ",
+		"github": "AlexandrNP",
+		"linkedin": "oleksandr-narykov",
+		"facebook": "alexander.narykov.7",
+		"twitter": "onarykov",
+		"email": "onarykov@wpi.edu",
+		"phone": "857-999-5317"
+	},
+	"texts": {
+		"index": "The mind is not a vessel to be filled but a torch to be set ablaze",
+		"research": "I am a Computer Science PhD candidate at WPI KorkinLab (<a href=\"http://korkinlab.org/\">Korkin lab</a>) under supervision of <a href=\"https://www.wpi.edu/people/faculty/dkorkin\">Dmitry Korkin</a>. My research is centered around proteomics with an emphasis on network analysis and machine learning. In particular, I am working on application of machine learning models to answer the question how alternative splicing reshapes human interactome. I am looking for postdoc positions in my field and I am open to collaboration.",
+		"contact": "I welcome collaboration opportunities and I gladly communicate with people. If I may be of assistance feel free to shoot me an email. I am open to any means of communication, from person-to-person meetings, to chats, to video calls.",
+		"lab": "<p>I am currently commuting spending about 50%/50% time between Boston and Worcester </p>"
+	},
+	"keywords": [
+		"oleksandr",
+		"narykov",
+		"research",
+		"PhD",
+		"computational biology",
+		"computer science",
+		"worcester polytechnic institute"
+	],
+	"googleAnalyticsId": "UA-65293382-4"
+}

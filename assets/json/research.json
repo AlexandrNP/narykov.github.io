@@ -1,0 +1,43 @@
+{
+	"interests": [
+		"Machine Learning",
+		"Alternative Splicing",
+		"Deep Learning",
+		"Network Dynamics",
+		"scRNA-Seq",
+		"Large-scale proteomics",
+		"Molecular Dynamics"
+	],
+	"collaborators": [
+		{
+			"image": "korkin.jpeg",
+			"name": "Dmitry Korkin",
+			"title": "Professor",
+			"link": "https://www.wpi.edu/people/faculty/dkorkin"
+		},
+		{
+			"image": "pixel.jpg",
+			"name": "Pixel",
+			"title": "The Cat",
+			"link": "https://www.icloud.com/sharedalbum/#B0jGdIshaGDGUTE"
+		},
+		{
+			"image": "nathan.jpg",
+			"name": "Nathan T. Johnson",
+			"title": "Investigator II",
+			"link": "https://www.linkedin.com/in/nathan-t-johnson/"
+		},
+		{
+			"image": "dmytro.jpeg",
+			"name": "Dmytro Bogatov",
+			"title": "PhD Candidate",
+			"link": "https://dbogatov.org/"
+		},
+		{
+			"image": "suhas.jpg",
+			"name": "Suhas Srinivasan",
+			"title": "PhD Candidate",
+			"link": "https://www.wpi.edu/people/doctoral-student/ssrinivasan"
+		}
+	]
+}

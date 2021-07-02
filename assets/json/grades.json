@@ -1,0 +1,37 @@
+[
+	{
+		"school": "NTUU KPI",
+		"image": "NTUU_KPI_logo.png",
+		"fullname": "National Technical University of Ukraine \"Kyiv Polytechnic Institute\"",
+		"enrollment": "Sep 2009 ",
+		"graduation": "Jun 2013",
+		"graduated": true,
+		"degree": "BS in Computer Science"
+	},
+	{
+		"fullname": "Data Analysis School, Yandex",
+		"image": "shad-logo.png",
+		"enrollment": "Sep 2012",
+		"graduation": "Jun 2014",
+		"graduated": true,
+		"degree": "Certification in Data Analysis"
+	},
+	{
+		"school": "NTUU KPI",
+		"image": "NTUU_KPI_logo.png",
+		"fullname": "National Technical University of Ukraine \"Kyiv Polytechnic Institute\"",
+		"enrollment": "Sep 2013",
+		"graduation": "Jun 2015",
+		"graduated": true,
+		"degree": "MS in Computer Science (Cyber Security Specialization)"
+	},
+	{
+		"school": "WPI",
+		"image": "wpi-logo.png",
+		"fullname": "Worcester Polytechnic Institute",
+		"enrollment": "Aug 2015",
+		"graduation": "Dec 2021",
+		"graduated": false,
+		"degree": "PhD in Computer Science"
+	}
+]

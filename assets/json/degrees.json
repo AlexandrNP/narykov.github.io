@@ -1,0 +1,26 @@
+[
+	{
+		"degree": "Ph.D.",
+		"when": "Expected Dec 2021",
+		"full": "Ph.D. in Computer Science with specialization in Computational Biology",
+		"where": "Worcester Polytechnic Institute"
+	},
+	{
+		"degree": "M.S.",
+		"when": "May 2015",
+		"full": "Master of  Science, CS with Specialization in Cyber Security",
+		"where": "National Technical University of Ukraine \"Kyiv Polytechnic Institute\""
+	},
+	{
+		"degree": "B.S.",
+		"when": "May 2013",
+		"full": "Bachelor of Science, CS with specialization in Cyber Security",
+		"where": "National Technical University of Ukraine \"Kyiv Polytechnic Institute\""
+	},
+	{
+		"degree": "Certification",
+		"when": "June 2014",
+		"full": "Data Analysis Specialization",
+		"where": "Data Analysis School, Yandex"
+	}
+]

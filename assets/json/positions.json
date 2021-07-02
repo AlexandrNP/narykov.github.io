@@ -1,0 +1,30 @@
+[
+	{
+		"from": "2019",
+		"to": "Present",
+		"position": "Research Assistant",
+		"company": "Worcester Polytechnic Institute",
+		"place": "Worcester, MA"
+	},
+	{
+		"from": "Jun-Aug",
+		"to": "2018",
+		"position": "Research Intern",
+		"company": "Tufts CTSI",
+		"place": "Boston, MA"
+	},
+	{
+		"from": "2015",
+		"to": "2019",
+		"position": "Teaching Assistant",
+		"company": "Worcester Polytechnic Institute",
+		"place": "Worcester, MA"
+	},
+	{
+		"from": "2013",
+		"to": "2015",
+		"position": "Research Engineer",
+		"company": "Samsung R&D Center",
+		"place": "Kyiv, Ukraine"
+	}
+]

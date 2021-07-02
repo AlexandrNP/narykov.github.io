@@ -1,0 +1,121 @@
+{
+	"tags": [
+		{
+			"id": "journal",
+			"display": "Journal paper",
+			"color": "primary"
+		},
+		{
+			"id": "lte",
+			"display": "Letter to the editor",
+			"color": "primary"
+		},
+		{
+			"id": "featured",
+			"display": "Featured",
+			"color": "success"
+		},
+		{
+			"id": "in-review",
+			"display": "Under review",
+			"color": "warning"
+		},
+		{
+			"id": "academic",
+			"display": "Academic project",
+			"color": "info"
+		}
+	],
+	"publications": [
+		{
+			"title": "Predicting protein interaction network perturbation by alternative splicing with semi-supervised learning",
+			"authors": [
+				"Oleksandr Narykov",
+				"Nathan T. Johnson",
+				"Dmitry Korkin"
+			],
+			"abstract": "Alternative splicing introduces a new layer of protein diversity and complexity in regulating cellular functions that can be specific to the tissue and cell type, physiological state of a cell, or disease phenotype. In particular, recent high-throughput experimental studies have illuminated the functional role of splicing events through rewiring protein-protein interactions, yet the extent to which the macromolecular interactions are affected by alternative splicing has to be fully understood. In silico methods provide a fast and cheap alternative to interrogating functional characteristics of thousands of alternatively spliced isoforms. Here we develop an accurate feature-based machine learning approach that predicts if a protein-protein interaction carried out by a reference isoform is perturbed by an alternatively spliced isoform. Our method called ALTernatively Spliced INteractions prediction (ALT-IN) Tool was compared with the state-of-the-art PPI prediction tools and showed superior performance, achieving 0.92 in precision and recall values.",
+			"venue": "Cell Reports",
+			"year": 2021,
+			"file": "",
+			"tags": [
+				"in-review",
+				"featured"
+			],
+			"tail": "2021 (Under review)"
+		},
+		{
+			"title": "Computational protein modeling and the next viral pandemic",
+			"authors": [
+				"Oleksandr Narykov",
+				"Suhas Srinivasan",
+				"Dmitry Korkin"
+			],
+			"abstract": "It has been one year since the release of the first SARS-CoV-2 genome1, which provided scientists with critical knowledge about its proteins. Thanks to the unprecedented experimental efforts by scientists worldwide, we have now obtained structural knowledge about most SARS-CoV-2 proteins, determining their three-dimensional (3D) shapes. Perhaps even more critical is the structural knowledge of the protein complexes that underlie the basics of viral functioning. Months before the experimental protein structures were solved, computational efforts by several groups provided researchers with accurate 3D models of the viral proteins and their physical interactions with each other and with host proteins. This 3D molecular information is instrumental in basic research, to understand mechanisms behind the viral entry and replication, as well as in structure-based drug design, to determine new antiviral targets, or in vaccine development, to study effects of novel mutations on antigen–antibody binding. Given that it is not ‘if’, but ‘when’ a new viral pandemic will emerge2, it is crucial to know whether computational modeling methods can facilitate structural characterization of viral proteins and their essential complexes. After one year of intensive research by the structural biology community, we have accumulated enough data to evaluate the impact of computational modeling efforts toward understanding the structural nature of the virus.",
+			"venue": "Nature Methods",
+			"year": 2017,
+			"file": "",
+			"tags": [
+				"lte"
+			],
+			"tail": "18: 444-445, 2021. <strong>DOI</strong>: https://doi.org/10.1038/s41592-021-01144-0"
+		},
+		{
+			"title": "Structural genomics of SARS-CoV-2 indicates evolutionary conserved functional regions of viral proteins",
+			"authors": [
+				"Suhas Srinivasan",
+				"Hongzhu Cui",
+				"Ziyang Gao",
+				"Ming Liu",
+				"Senbao Lu",
+				"Winnie Mkandawire",
+				"Oleksandr Narykov",
+				"Mo Sun",
+				"Dmitry Korkin"
+			],
+			"abstract": "During its first two and a half months, the recently emerged 2019 novel coronavirus, SARS-CoV-2, has already infected over one-hundred thousand people worldwide and has taken more than four thousand lives. However, the swiftly spreading virus also caused an unprecedentedly rapid response from the research community facing the unknown health challenge of potentially enormous proportions. Unfortunately, the experimental research to understand the molecular mechanisms behind the viral infection and to design a vaccine or antivirals is costly and takes months to develop. To expedite the advancement of our knowledge, we leveraged data about the related coronaviruses that is readily available in public databases and integrated these data into a single computational pipeline. As a result, we provide comprehensive structural genomics and interactomics roadmaps of SARS-CoV-2 and use this information to infer the possible functional differences and similarities with the related SARS coronavirus. All data are made publicly available to the research community.",
+			"venue": "Viruses",
+			"year": 2020,
+			"file": "",
+			"tags": [
+				"journal",
+				"featured"
+			],
+			"tail": "12(360): 2020. <strong>DOI</strong>: https://doi.org/10.3390/v12040360"
+		},
+		{
+			"title": "DISPOT: A simple knowledge-based protein domain interaction statistical potential",
+			"authors": [
+				"Oleksandr Narykov",
+				"Dmytro Bogatov",
+				"Dmitry Korkin"
+			],
+			"abstract": "<b>Motivation</b>: The complexity of protein-protein interactions (PPIs) is further compounded by the fact that an average protein consists of two or more domains, structurally and evolutionary independent subunits. Experimental studies have demonstrated that an interaction between a pair of proteins is not carried out by all domains constituting each protein, but rather by a select subset. However, finding which domains from each protein mediate the corresponding PPI is a challenging task. <b>Results</b>: Here, we present Domain Interaction Statistical POTential (DISPOT), a simple knowledge-based statistical potential that estimates the propensity of an interaction between a pair of protein domains, given their SCOP family annotations. The statistical potential is derived based on the analysis of more than 352,000 structurally resolved protein-protein interactions obtained from DOMMINO, a comprehensive database on structurally resolved macromolecular interactions. <b>Availability and implementation</b>: DISPOT is implemented in Python 2.7 and packaged as an open-source tool. DISPOT is implemented in two modes, basic and auto-extraction. The source code for both modes is available on GitHub: <a href='https://github.com/korkinlab/dispot'>github.com/korkinlab/dispot</a> and standalone docker images on DockerHub: <a href='https://hub.docker.com/r/korkinlab/dispot'>hub.docker.com/r/korkinlab/dispot</a>. The web-server is freely available at <a href='http://dispot.korkinlab.org/'>dispot.korkinlab.org</a>.",
+			"venue": "Bioinformatics",
+			"year": 2019,
+			"file": "dispot",
+			"tags": [
+				"conference",
+				"featured"
+			],
+			"tail": "2019. <strong>DOI</strong>: https://doi.org/10.1093/bioinformatics/btz587"
+		},
+		{
+			"title": "Assessment of network module identification across complex diseases",
+			"authors": [
+				"Sarvenaz Choobdar",
+				"Mehmet E Ahsen",
+				"Jake Crawford",
+				" et al. (including Oleksand Narykov)"
+			],
+			"abstract": "Many bioinformatics methods have been proposed for reducing the complexity of large gene or protein networks into relevant subnetworks or modules. Yet, how such methods compare to each other in terms of their ability to identify disease-relevant modules in different types of network remains poorly understood. We launched the ‘Disease Module Identification DREAM Challenge’, an open competition to comprehensively assess module identification methods across diverse protein–protein interaction, signaling, gene co-expression, homology and cancer-gene networks. Predicted network modules were tested for association with complex traits and diseases using a unique collection of 180 genome-wide association studies. Our robust assessment of 75 module identification methods reveals top-performing algorithms, which recover complementary trait-associated modules. We find that most of these modules correspond to core disease-relevant pathways, which often comprise therapeutic targets. This community challenge establishes biologically interpretable benchmarks, tools and guidelines for molecular network analysis to study human disease biology.",
+			"venue": "Nature Methods",
+			"year": 2019,
+			"file": "",
+			"tags": [
+				"journal"
+			],
+			"tail": "16: 843-852, 2019. <strong>DOI</strong>: https://doi.org/10.1038/s41592-019-0509-5"
+		}
+	]
+}
