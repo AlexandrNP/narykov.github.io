@@ -28,5 +28,10 @@
 		"image": "vis-6.png",
 		"title": "DISPOT",
 		"description": "Distribution of protein potentials based on the number of domains"
+	},
+	{
+		"image": "vis-7.png",
+		"title": "S trimer and ACE-2 protein",
+		"description": "Different version of this image is featured on the cover of Frishman, D., & Marz, M. (Eds.). (2021). Virus Bioinformatics (1st ed.). Chapman and Hall/CRC. <a href=\"https://doi.org/10.1201/9781003097679\" target=\"_blank\"> https://doi.org/10.1201/9781003097679 </a>"
 	}
 ]
